@@ -227,4 +227,20 @@
     "$date": "2024-04-07T08:23:38.114Z"
   },
   "__v": 0
+},
+{
+  "name": "Song of India",
+  "origin": "Ấn Độ",
+  "status": 157,
+  "size": "Nhỏ",
+  "price": 260000,
+  "type": "Ưa sáng",
+  "createdAt": {
+    "$date": "2024-04-07T08:23:38.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-07T08:23:38.114Z"
+  },
+  "__v": 0
 }]
+
